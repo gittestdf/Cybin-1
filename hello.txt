@@ -1,7 +1,7 @@
 
 hello git!
 hello git!
-hello git!
+hello git!modify without add and commit!
 hello git!
 hello git!
 hello git!
